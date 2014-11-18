@@ -1,2 +1,6 @@
 makes a hidden folder which the grouping of the files are contained once 
 labeled in such a fashion.
+
+gives you a change to group your files into what you want to be able
+to commit.
+
