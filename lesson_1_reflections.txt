@@ -1,0 +1,16 @@
+when I ran the program it cearly represented all the new lines that were added 
+or removed making corrections if nessesary simple.
+
+
+this will make things alot easier and more managable then having to remember
+ to make a new version of your files. You will be able to compare any files for the given date.
+
+
+you can find where the commit was made due to the comments. then take the git log command 
+to get the lof to find the actual commits. After that you use the git diff to find the difference in the files
+to see how many lines were added and discarded.
+
+
+you could always go back and forth from commits.
+
+I would like to use git as a medium for future projects.
