@@ -4,3 +4,4 @@ labeled in such a fashion.
 gives you a change to group your files into what you want to be able
 to commit.
 
+the diagram let you be able to track the master branch to make sure your not making any commits that are not reachable.
