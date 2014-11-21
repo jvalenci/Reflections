@@ -7,3 +7,5 @@ to commit.
 the diagram let you be able to track the master branch to make sure your not making any commits that are not reachable.
 
 all the previous commits made into one file . and still reachable.
+
+automatic git asks the user to figure out which changes actually need to be implemented, while the manuel changes can take a while.
