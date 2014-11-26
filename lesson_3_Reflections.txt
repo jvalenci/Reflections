@@ -8,3 +8,5 @@ branch is what is holding all the commits that you have been making and can push
 having a stored local remote makes it possible to be and to diff and compare the two.
 
 probably on a thumb drive or by email, we would have to send each others source code. this way is alot easier and it has many functions to help you on the way.
+
+when you want to make a pull request so you can the merge the master of github and then push back into it. benefits are that you dont mess up the master branch and you can collaborate with other people to check your code out.
