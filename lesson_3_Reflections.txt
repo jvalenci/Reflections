@@ -6,3 +6,5 @@ forking is when you copy someone's remote onto your own github account,
 branch is what is holding all the commits that you have been making and can push or pulled from the clones.
 
 having a stored local remote makes it possible to be and to diff and compare the two.
+
+probably on a thumb drive or by email, we would have to send each others source code. this way is alot easier and it has many functions to help you on the way.
