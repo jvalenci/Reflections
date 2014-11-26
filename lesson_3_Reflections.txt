@@ -1,3 +1,6 @@
 You would want to create a remote when you have more than one person working on the same project.
 
 you dont want git pulling new branch updates. because what id you are in the middle of a new feature or something of that nature. rather you want to pull in everything manually 
+
+forking is when you copy someone's remote onto your own github account,
+branch is what is holding all the commits that you have been making and can push or pulled from the clones.
