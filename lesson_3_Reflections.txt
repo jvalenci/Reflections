@@ -4,3 +4,5 @@ you dont want git pulling new branch updates. because what id you are in the mid
 
 forking is when you copy someone's remote onto your own github account,
 branch is what is holding all the commits that you have been making and can push or pulled from the clones.
+
+having a stored local remote makes it possible to be and to diff and compare the two.
